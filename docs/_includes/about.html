@@ -4,12 +4,23 @@
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About Us" }}</h2>
-          <h3 class="section-subheading text-muted">{{ site.data.sitetext.about.text | default: "" }}</h3>
+          <!--<h3 class="section-subheading text-muted">{{ site.data.sitetext.about.text | default: "" }}</h3>-->
         </div>
       </div>
 	  <div class="row">
 		<div class="col-lg-8 mx-auto text-center">
-		  <div class="large text-muted">{{ site.data.sitetext.about.text | markdownify }}</div>
+		  <div class="large text-muted">
+        <p>Argonne AI-testbed System at Argonne Leadership Computing Facility (ALCF) provides an infrastructure of next-generation AI-accelerator machines. It aims to help evaluate usability and performance of machine learning based high-performance computing applications running on these accelerators. The goal is to better understand how to integrate with existing and upcoming supercomputers at the facility to accelerate science insights.</p>
+        
+        <p><b>Activities:</b></p>
+        <ul>
+          <li>Maintain a range of hardware and software environments for AI-accelerators</li>
+          <li>Provide a platform to benchmark applications, programming models and ML frameworks</li>
+          <li>Support science application teams to port and evaluate their applications</li>
+          <li>Co-ordinate with vendors with product developments</li>
+        </ul>
+        
+        Currently, the AI-testbed has Cerebras, SambaNova and GraphCore systems set up and running. We are working closely with vendors including Groq, among others.</div>
 		</div>
 	  </div>
     </div>
