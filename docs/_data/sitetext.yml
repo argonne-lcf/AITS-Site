@@ -25,7 +25,7 @@ services:
         image: assets/img/services/bildsten_300x300.png
 
 portfolio:
-    title: "Documentation"
+    title: "Systems"
     text: "The AI Testbed is comprised of three systems: Cerebras, Graphcore and SambaNova"
     section: portfolio
     closebutton: "Close Project"
