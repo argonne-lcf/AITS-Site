@@ -17,7 +17,7 @@ url    : "https://argonne-lcf.github.io" # the base hostname & protocol for your
 baseurl: "/AITS-Site" # the subpath of your site, e.g. /blog
 
 title      : ALCF AI-testbed System
-email      : lbooker@anl.gov #this is also the email contact forms will go to
+email      : ai@alcf.anl.gov #this is also the email contact forms will go to
 description: "Providing information and documentation on the ALCF AI-testbed System"
 author     : Argonne Leadership Computing Facility
 # logo:     #optional, defaults to site title
