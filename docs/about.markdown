@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Argonne AI-testbed System at Argonne Leadership Computing Facility (ALCF) provides an infrastructure of next-generation AI-accelerator machines. It aims to help evaluate usability and performance of machine learning based high-performance computing applications running on these accelerators. The goal is to better understand how to integrate with existing and upcoming supercomputers at the facility to accelerate science insights. 
+The AI-testbed System at Argonne Leadership Computing Facility (ALCF) provides an infrastructure of next-generation AI-accelerator machines. It aims to help evaluate usability and performance of machine learning based high-performance computing applications running on these accelerators. The goal is to better understand how to integrate with existing and upcoming supercomputers at the facility to accelerate science insights. 
  
 Activities:
 - Maintain a range of hardware and software environments for AI-accelerators

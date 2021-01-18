@@ -16,9 +16,9 @@ theme: jekyll-agency
 url    : "https://argonne-lcf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/AITS-Site" # the subpath of your site, e.g. /blog
 
-title      : Argonne AI-testbed System
+title      : ALCF AI-testbed System
 email      : lbooker@anl.gov #this is also the email contact forms will go to
-description: "Providing information and documentation on the Argonne AI-testbed System"
+description: "Providing information and documentation on the ALCF AI-testbed System"
 author     : Argonne Leadership Computing Facility
 # logo:     #optional, defaults to site title
 #   path: assets\img\Argonne_color_white_transparent.png
