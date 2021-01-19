@@ -6,7 +6,7 @@ alt: Groq
 
 caption:
   title: Groq (Available in 2021)
-  subtitle: Groq tensor streaming processor (TSP) provides a scalable and programmable processing core and memory building block to achieve 250 TFlops in FP16 and 1 PetaOp/s in INT8 performance.
+  subtitle: Groq tensor streaming processor (TSP) provides a processing core and memory building block to achieve 250 TFlops in FP16 and 1 PetaOp/s in INT8 performance.
   thumbnail: assets/img/portfolio/Groq_400x300.png
 ---
 <!--Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!

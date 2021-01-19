@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Cerebras (CS-1)
-  subtitle: CS-1 is a wafer-scale, deep learning accelerator.
+  subtitle: CS-1 is a wafer-scale, deep learning accelerator. Processing, memory, and communication in CS-1 reside in the Cerebras Wafer-Scale Engine (WSE).
   thumbnail: assets/img/portfolio/Cerebras_400x300.jpg
   
 #what displays when the item is clicked:
