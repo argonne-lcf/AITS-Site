@@ -2,7 +2,7 @@ header:
     title: Argonne Leadership Computing Facility
     text: AI-Testbed 
     button: Explore the Testbed
-    buttonlink: "#services"
+    buttonlink: "#about"
 
 about:
     title: "About the ALCF AI-Testbed"
@@ -12,7 +12,7 @@ about:
 services:
     title: "Testbed Applications"
     text: "Here are some projects that are currently running on the AI-Testbed."
-    section: services
+    section: applications
     list:
       - title: "Deep Learning for Cancer"
         desc: "Predicting cancer type and drug response using histopathology images from the National Cancer Institute's Patient-Derived Models Repository. Image: Rick Stevens, Argonne National Laboratory"
@@ -27,7 +27,7 @@ services:
 portfolio:
     title: "Systems"
     text: "Currently, the AI-Testbed has Cerebras, SambaNova and GraphCore systems set up and running. We are working closely with vendors including Groq, among others."
-    section: portfolio
+    section: systems
     closebutton: "Close Project"
     
 
@@ -125,7 +125,7 @@ portfolio:
 contact:
     title: "Access and Support"
     #text: "Send testbed-related inquiries by completing the below form."
-    section: contact
+    section: access-support
     
 footer:
     legal: "Privacy Policy"

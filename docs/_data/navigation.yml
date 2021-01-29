@@ -3,13 +3,13 @@ nav:
     section: about
 
   - title: "Testbed Applications"
-    section: services
+    section: applications
 
   - title: "Systems"
-    section: portfolio
+    section: systems
 
   - title: "Access & Support"
-    section: contact
+    section: access-support
 
   - title: "Documentation"
     url: https://argonne-lcf.github.io/ALCF-AI-Testbed/
