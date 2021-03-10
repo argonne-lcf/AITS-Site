@@ -4,7 +4,7 @@ header:
     button: Explore the Testbed
     buttonlink: "#about"
 
-about:
+about: #Edit text in _includes/about.html
     title: "About the ALCF AI-Testbed"
     #text: "The AI-Testbed at Argonne Leadership Computing Facility (ALCF) provides an infrastructure of next-generation AI-accelerator machines. It aims to help evaluate usability and performance of machine learning based high-performance computing applications running on these accelerators. The goal is to better understand how to integrate with existing and upcoming supercomputers at the facility to accelerate science insights."
     section: about
@@ -24,7 +24,7 @@ services:
         desc: "A team of researchers from the University of California, Santa Barbara used ALCF-generated simulations to study the global structure of the gaseous outer layers of massive stars. Credit: Lars Bildsten, Kavli Institute for Theoretical Physics"
         image: assets/img/services/bildsten_300x300.png
 
-portfolio:
+portfolio: #Edit each system page in _portfolio/
     title: "Systems"
     text: "Currently, the AI-Testbed has Cerebras, SambaNova and GraphCore systems set up and running. We are working closely with vendors including Groq, among others."
     section: systems
@@ -122,7 +122,7 @@ portfolio:
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
           
-contact:
+contact: #Edit text in _includes/contact.html
     title: "Access and Support"
     #text: "Send testbed-related inquiries by completing the below form."
     section: access-support
